@@ -2,7 +2,7 @@
 ### Series Communicating with Markdown
 #### Have a better day!
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Gif of Dog catching ball](https://i0.wp.com/images.onwardstate.com/uploads/2015/05/oie_14175751vZSQRLEn.gif?fit=650%2C408&ssl=1)
 
 ```
 $ git init
