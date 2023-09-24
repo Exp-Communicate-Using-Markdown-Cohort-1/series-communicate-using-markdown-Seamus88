@@ -11,9 +11,9 @@ $ cd ../..
 ```
 
 
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+- [x] Tasky Times Ten
+- [x] Another Tasked Item
+- [x] Correct Syntax?
 
 
 
