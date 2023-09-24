@@ -5,8 +5,9 @@
 ![Gif of Dog catching ball](https://i0.wp.com/images.onwardstate.com/uploads/2015/05/oie_14175751vZSQRLEn.gif?fit=650%2C408&ssl=1)
 
 ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+$ ll
+$ pwd
+$ cd ../..
 ```
 
 
